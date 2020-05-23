@@ -1,0 +1,12 @@
+.vscode/
+.history/
+
+project/
+
+*.pyc
+
+cef/
+cefapp/
+build/
+dist/
+spec/
